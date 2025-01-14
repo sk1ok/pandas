@@ -5,7 +5,7 @@
 python3 -m pip install virtualenv
 
 # Create virtual env
-py -m venv venv
+python -m venv venv
 
 # Activate venv on CMD
 .\venv\Scripts\activate
